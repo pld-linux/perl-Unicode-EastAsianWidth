@@ -4,7 +4,6 @@
 #
 %define		pdir	Unicode
 %define		pnam	EastAsianWidth
-%include	/usr/lib/rpm/macros.perl
 Summary:	Unicode::EastAsianWidth - East Asian Width properties
 Summary(pl.UTF-8):	Unicode::EastAsianWidth - właściwości szerokości znaków wschodnioazjatyckich
 Name:		perl-Unicode-EastAsianWidth
