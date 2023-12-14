@@ -7,12 +7,12 @@
 Summary:	Unicode::EastAsianWidth - East Asian Width properties
 Summary(pl.UTF-8):	Unicode::EastAsianWidth - właściwości szerokości znaków wschodnioazjatyckich
 Name:		perl-Unicode-EastAsianWidth
-Version:	1.33
+Version:	12.0
 Release:	1
 License:	unrestricted
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Unicode/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	c33367b020995ff4fdd20e2b3cdae6be
+# Source0-md5:	545507653ce0dfa34055e2628455abcc
 URL:		http://search.cpan.org/dist/Unicode-EastAsianWidth/
 BuildRequires:	perl-ExtUtils-MakeMaker >= 6.59
 BuildRequires:	perl-devel >= 1:5.8.0
